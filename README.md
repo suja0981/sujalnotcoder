@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suja0981/sujalnotcoder/tree/master/0169-majority-element) |
+| [0958-sort-array-by-parity-ii](https://github.com/suja0981/sujalnotcoder/tree/master/0958-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suja0981/sujalnotcoder/tree/master/0169-majority-element) |
+| [0958-sort-array-by-parity-ii](https://github.com/suja0981/sujalnotcoder/tree/master/0958-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/suja0981/sujalnotcoder/tree/master/0237-delete-node-in-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0958-sort-array-by-parity-ii](https://github.com/suja0981/sujalnotcoder/tree/master/0958-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
