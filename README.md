@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/suja0981/sujalnotcoder/tree/master/0169-majority-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/suja0981/sujalnotcoder/tree/master/0958-sort-array-by-parity-ii) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/suja0981/sujalnotcoder/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suja0981/sujalnotcoder/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [3876-transform-array-to-all-equal-elements](https://github.com/suja0981/sujalnotcoder/tree/master/3876-transform-array-to-all-equal-elements) |
 <!---LeetCode Topics End-->
