@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/suja0981/sujalnotcoder/tree/master/0169-majority-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/suja0981/sujalnotcoder/tree/master/0958-sort-array-by-parity-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suja0981/sujalnotcoder/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/suja0981/sujalnotcoder/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/suja0981/sujalnotcoder/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/suja0981/sujalnotcoder/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/suja0981/sujalnotcoder/tree/master/0169-majority-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/suja0981/sujalnotcoder/tree/master/0958-sort-array-by-parity-ii) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/suja0981/sujalnotcoder/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Counting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/suja0981/sujalnotcoder/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/suja0981/sujalnotcoder/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Stack
 |  |
