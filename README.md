@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suja0981/sujalnotcoder/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/suja0981/sujalnotcoder/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suja0981/sujalnotcoder/tree/master/2271-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suja0981/sujalnotcoder/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
