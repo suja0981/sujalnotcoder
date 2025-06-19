@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/suja0981/sujalnotcoder/tree/master/0169-majority-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/suja0981/sujalnotcoder/tree/master/0958-sort-array-by-parity-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/suja0981/sujalnotcoder/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/suja0981/sujalnotcoder/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/suja0981/sujalnotcoder/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/suja0981/sujalnotcoder/tree/master/0958-sort-array-by-parity-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suja0981/sujalnotcoder/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/suja0981/sujalnotcoder/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/suja0981/sujalnotcoder/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/suja0981/sujalnotcoder/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
