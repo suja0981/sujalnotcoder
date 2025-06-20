@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/suja0981/sujalnotcoder/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/suja0981/sujalnotcoder/tree/master/0020-valid-parentheses) |
 ## Design
 |  |
